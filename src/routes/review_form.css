@@ -1,0 +1,16 @@
+.review {
+	width: 500px;
+	margin: 30px auto;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.divider {
+  border-bottom: 1px solid lightgrey;
+}

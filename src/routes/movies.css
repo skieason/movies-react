@@ -1,0 +1,16 @@
+.movies {
+	width: 500px;
+	margin: 30px auto;
+}
+
+.divider {
+  border-bottom: 1px solid lightgrey;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.underline {
+  text-decoration: underline;
+}
